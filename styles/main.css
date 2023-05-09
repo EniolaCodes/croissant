@@ -1,0 +1,21 @@
+body {
+  margin: 50px auto;
+  font-size: 18px;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  line-height: 1.5;
+  text-align: justify;
+  padding: 10px 20px;
+}
+div {
+  display: flex;
+  justify-content: space-around;
+}
+a {
+  text-decoration: none;
+}
+
