@@ -19,4 +19,14 @@ div {
 }
 a {
   text-decoration: none;
+  color: #0388fc;
+  text-transform: uppercase;
+}
+a:hover {
+  color: #ffffff;
+  transition: 200ms;
+  -webkit-transition: 200ms;
+  -moz-transition: 200ms;
+  -ms-transition: 200ms;
+  -o-transition: 200ms;
 }
