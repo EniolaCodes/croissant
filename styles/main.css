@@ -1,6 +1,8 @@
 body {
   margin: 50px auto;
   font-size: 18px;
+  background: #fcba03;
+  color: #ffffff;
 }
 
 h1 {
@@ -18,4 +20,3 @@ div {
 a {
   text-decoration: none;
 }
-
